@@ -42,5 +42,5 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/python-games.git
+   git clone https://github.com/Elmoumen202a/python-games.git
    cd python-games
