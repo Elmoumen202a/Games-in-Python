@@ -18,7 +18,7 @@ In this project, we aim to develop fun and interactive games using Python. Wheth
 Here are the games currently included in this project:
 
 1. **Hangman Game**
-   -This Hangman game will involve a computer and one human player. The computer, acting as the selector, chooses the word to guess, processes human input, and manages all output. The human player, referred to as the "player," guesses letters until they either complete the word or run out of guesses.
+   - This Hangman game will involve a computer and one human player. The computer, acting as the selector, chooses the word to guess, processes human input, and manages all output. The human player, referred to as the "player," guesses letters until they either complete the word or run out of guesses.
 
 2. **Rock Paper Scissors Game**
    - This is a simple Rock, Paper, Scissors game implemented in Python.
