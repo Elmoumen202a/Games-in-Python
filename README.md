@@ -23,6 +23,8 @@ Here are the games currently included in this project:
 2. **Rock Paper Scissors Game**
    - This is a simple Rock, Paper, Scissors game implemented in Python.
 
+3. **One Piece Guessing Game**
+   - This is a simple One Piece guessing game where you have to answer questions to score points.
 
 Feel free to explore the individual directories for each game to find more information, source code, and instructions on how to play.
 
