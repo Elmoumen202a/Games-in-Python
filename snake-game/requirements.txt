@@ -1,0 +1,8 @@
+# Turtle graphics library for creating the game interface
+PythonTurtle==0.6.3
+
+# FreeGames library for utility functions (if used in your code)
+FreeGames==2.5.3
+
+# Pytest for testing the code
+pytest==7.0.1
