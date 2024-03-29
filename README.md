@@ -27,9 +27,10 @@ Here are the games currently included in this project:
    - This is a simple One Piece guessing game where you have to answer questions to score points.
 
 4. **[Snake Game](./snake-game)**
+
    -The Snake Game is a classic arcade game implemented in Python using Turtle graphics. It challenges players to control a snake, eat food, and grow, featuring customizable speed, boundary handling, and arrow key controls.
 
-5. **[Blackjack Game](./blackjack-game)**
+6. **[Blackjack Game](./blackjack-game)**
    - This is a simple text-based Blackjack game implemented in Python.
 
 Feel free to explore the individual directories for each game to find more information, source code, and instructions on how to play.
