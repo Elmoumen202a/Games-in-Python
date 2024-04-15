@@ -29,8 +29,11 @@ Here are the games currently included in this project:
 4. **[Snake Game](./snake-game)**
    - The Snake Game is a classic arcade game implemented in Python using Turtle graphics. It challenges players to control a snake, eat food, and grow, featuring customizable speed, boundary handling, and arrow key controls.
 
-6. **[Blackjack Game](./blackjack-game)**
+5. **[Blackjack Game](./blackjack-game)**
    - This is a simple text-based Blackjack game implemented in Python.
+
+6. **[Text-Based Adventure](./ text-based-adventure)**
+   - This is a simple text-based adventure game implemented in Python.
 
 Feel free to explore the individual directories for each game to find more information, source code, and instructions on how to play.
 
