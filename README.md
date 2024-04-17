@@ -35,6 +35,9 @@ Here are the games currently included in this project:
 6. **[Text-Based Adventure](./ text-based-adventure)**
    - This is a simple text-based adventure game implemented in Python.
 
+7. **[Mad-Libs](./ mad-libs)**
+   - This is a simple Mad Libs game written in Python.
+
 Feel free to explore the individual directories for each game to find more information, source code, and instructions on how to play.
 
 ## Getting Started
